@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="medium">Are you feeling sick?</string>
+    <string name="call">Call Now</string>
+    <string name="sms">Send SmS</string>
+    <string name="small">If you feel sich with any of covid-19 symptoms please call or sms us immediately for help.</string>
+</resources>
